@@ -7,6 +7,7 @@
             box-sizing: border-box;
             width: 100%;
             text-align: center;
+            color: blue;
         }
         div{
             padding: 5px;
